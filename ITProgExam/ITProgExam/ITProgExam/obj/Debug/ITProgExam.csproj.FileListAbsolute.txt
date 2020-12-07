@@ -1,0 +1,12 @@
+c:\users\acer\documents\visual studio 2013\Projects\ITProgExam\ITProgExam\bin\Debug\ITProgExam.exe.config
+C:\Users\Acer\documents\visual studio 2013\Projects\ITProgExam\ITProgExam\bin\Debug\ITProgExam.exe
+C:\Users\Acer\documents\visual studio 2013\Projects\ITProgExam\ITProgExam\bin\Debug\ITProgExam.pdb
+C:\Users\Acer\documents\visual studio 2013\Projects\ITProgExam\ITProgExam\obj\Debug\ITProgExam.csprojResolveAssemblyReference.cache
+C:\Users\Acer\documents\visual studio 2013\Projects\ITProgExam\ITProgExam\obj\Debug\ITProgExam.Form1.resources
+C:\Users\Acer\documents\visual studio 2013\Projects\ITProgExam\ITProgExam\obj\Debug\ITProgExam.Properties.Resources.resources
+C:\Users\Acer\documents\visual studio 2013\Projects\ITProgExam\ITProgExam\obj\Debug\ITProgExam.csproj.GenerateResource.Cache
+C:\Users\Acer\documents\visual studio 2013\Projects\ITProgExam\ITProgExam\obj\Debug\ITProgExam.exe
+C:\Users\Acer\documents\visual studio 2013\Projects\ITProgExam\ITProgExam\obj\Debug\ITProgExam.pdb
+C:\Users\Acer\documents\visual studio 2013\Projects\ITProgExam\ITProgExam\obj\Debug\ITProgExam.Form2.resources
+C:\Users\Acer\documents\visual studio 2013\Projects\ITProgExam\ITProgExam\obj\Debug\ITProgExam.Form3.resources
+C:\Users\Acer\documents\visual studio 2013\Projects\ITProgExam\ITProgExam\obj\Debug\ITProgExam.Form4.resources
